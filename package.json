@@ -78,7 +78,8 @@
     "spdy": "^2.0.5",
     "tunnel-agent": "^0.4.0",
     "vasync": "1.6.3",
-    "verror": "^1.4.0"
+    "verror": "^1.4.0",
+    "http2": "^3.2.0"  
   },
   "optionalDependencies": {
     "dtrace-provider": "^0.6.0"
